@@ -19,7 +19,7 @@
   "parserOptions": {
     "ecmaVersion": 2022,
     "sourceType": "module",
-    "project": "./tsconfig.json",
+    "project": "./14-context/tsconfig.json",
     "ecmaFeatures": {
       "jsx": true
     }
